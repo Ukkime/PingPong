@@ -1,0 +1,9 @@
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\bin\Debug\PingPong.exe.config
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\bin\Debug\PingPong.exe
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\bin\Debug\PingPong.pdb
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\PingPong.exe
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\PingPong.pdb
+C:\Users\alatorre\Documents\Visual Studio 2012\Projects\Teseracto\WindowsFormsApplication1\obj\Debug\PingPong.PingPong.resources

@@ -1,0 +1,10 @@
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong!.csprojResolveAssemblyReference.cache
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong.PingPong.resources
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong!.csproj.GenerateResource.Cache
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong!.csproj.CoreCompileInputs.cache
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Alex Latorre\Documents\Proyectos\LittleTools\pingPong\PingPong\obj\Debug\PingPong.pdb
